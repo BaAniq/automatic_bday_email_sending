@@ -1,0 +1,1 @@
+This is a program that sends an email if the person in the 'birthdays.csv' file is having a birthday on that day. If it is person's birthday, program will pick one out of three letter templates. Then replace '[NAME]' from template into a name from birthday.csv. Finally program sends the email to that person.
